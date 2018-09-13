@@ -1,5 +1,5 @@
 import { StyleSheet, Platform, StatusBar } from 'react-native';
-import AppStyles from '../config/styles';
+import AppStyles from '../../config/styles';
 import { isIphoneX } from '../../lib/isIphoneX';
 
 const STATUSBAR_HEIGHT =
